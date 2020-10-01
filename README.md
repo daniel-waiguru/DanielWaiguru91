@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Daniel Waiguru 
 
+🌱 I’m currently learning Mudularization Architecture in Android
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
