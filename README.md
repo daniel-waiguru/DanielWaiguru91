@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Daniel Waiguru, a Software Developer 
 
-- 🌱 I’m currently learning Mudularization Architecture in Android
+- 🌱 I’m currently learning Modularization Architecture in Android
 - 👯 I’m looking to collaborate on android projects
 - 💬 Ask me about Android, Kotlin/Java
 - 🤔 I’m looking for entry or mid level android development opportunities
