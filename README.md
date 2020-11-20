@@ -7,7 +7,7 @@
 
 Lets Get Social
 - Twitter https://twitter.com/waiguru_daniel
-- LinkedIn https://www.linkedin.com/in/daniel-irungu-6bb1a3198/
+- LinkedIn https://www.linkedin.com/in/daniel-waiguru-6bb1a3198/
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
