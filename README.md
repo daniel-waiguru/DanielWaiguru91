@@ -6,7 +6,7 @@
 - 🤔 I’m looking for entry or mid level android development opportunities
 
 Lets Get Social
-- Twitter https://twitter.com/waiguru_daniel
+- Twitter https://twitter.com/_danielwaiguru
 - LinkedIn https://www.linkedin.com/in/daniel-waiguru-6bb1a3198/
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
