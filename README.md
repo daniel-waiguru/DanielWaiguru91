@@ -5,6 +5,7 @@
 - 💬 Ask me about Android, Kotlin/Java
 - 🤔 I’m looking for entry or mid level android development opportunities
 
+![Visitor Count](https://profile-counter.glitch.me/DanielWaiguru91/count.svg)
 Lets Get Social
 - Twitter https://twitter.com/_danielwaiguru
 - LinkedIn https://www.linkedin.com/in/daniel-waiguru-6bb1a3198/
