@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on android projects
 - 💬 Ask me about Android, Kotlin/Java
 - 🤔 I’m looking for entry or mid level android development opportunities
-- Writes blogs on danielwaiguru.hashnode.dev
+- Writes blogs on https://danielwaiguru.hashnode.dev/
 
 
 Lets Get Social
