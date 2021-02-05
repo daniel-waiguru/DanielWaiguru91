@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Modularization Architecture in Android
 - 👯 I’m looking to collaborate on android projects
-- 💬 Ask me about Android, Kotlin/Java
+- 💬 Ask me about Android, Kotlin/Java and Firebase
 - 🤔 I’m looking for entry or mid level android development opportunities
 - Writes blogs on https://danielwaiguru.hashnode.dev/
 
