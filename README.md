@@ -1,8 +1,9 @@
-<img src="art/dev.png" width="100" height="60"/>
+<img src="art/dev.png" width="150" height="100"/>
 Hi there 👋 I'm Daniel Waiguru, a Mobile Software Developer based in Nairobi.
 <br>
 I write :pencil: Tech articles occassionally at https://danielwaiguru.hashnode.dev/ .
 
+<br>
 <center>
   <table>
     <tr>
