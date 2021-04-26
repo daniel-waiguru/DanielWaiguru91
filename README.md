@@ -1,15 +1,12 @@
-### Hi there 👋 I'm Daniel Waiguru, a Software Developer 
+Hi there 👋 I'm Daniel Waiguru, a Mobile Software Developer based in Nairobi.
+I write :pencil: Tech articles occassionally at https://danielwaiguru.hashnode.dev/ .
 
-- 🌱 I’m currently learning Modularization Architecture in Android
-- 👯 I’m looking to collaborate on android projects
-- 💬 Ask me about Android, Kotlin/Java and Firebase
-- 🤔 I’m looking for entry or mid level android development opportunities
-- :pencil: Writes blogs at https://danielwaiguru.hashnode.dev/
-
-
-Lets Get Social
-- Twitter https://twitter.com/_danielwaiguru
-- LinkedIn https://www.linkedin.com/in/daniel-waiguru-6bb1a3198/
+<p align="center">
+	<a href="https://twitter.com/_danielwaiguru"><img src="https://img.shields.io/twitter/follow/WajahatKarim?label=@WajahatKarim&style=social" alt="Twitter"></a>  
+	<a href="https://www.linkedin.com/in/daniel-waiguru-6bb1a3198/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+  <a href="https://github.com/DanielWaiguru91"><img src="https://img.shields.io/github/followers/wajahatkarim3.svg?label=GitHub&style=social" alt="GitHub"></a>  
+	
+</p>
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
