@@ -4,7 +4,9 @@ Hi there 👋 I'm Daniel Waiguru, a Mobile Software Developer based in Nairobi.
 I write :pencil: Tech articles occassionally at https://danielwaiguru.hashnode.dev/ .
 
 <br>
-
+<br>
+<br>
+<br>
 
 
 <center>
