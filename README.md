@@ -1,22 +1,37 @@
-<img src="art/dev.png" width="150" height="100"/>
-Hi there 👋 I'm Daniel Waiguru, a Mobile Software Developer based in Nairobi.
-<br>
-I write :pencil: Tech articles occassionally at https://danielwaiguru.hashnode.dev/ .
 
-<br>
-<br>
-<br>
-<br>
+<h1 align="center">Hi there, 👋 I'm Daniel Waiguru</h1>
+<h3 align="center">A Mobile Software Developer</h3>
+<img src="https://img.icons8.com/color/100/000000/source-code.png"/>
+
+- 🔭 I’m currently working on Kotlin/Java Mobile Apps.
+- 👯 Looking forward to collaborate on Mobile related projects.
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/) 
+- 📫 Lets get social:
+<p align="left">
+<a href="https://twitter.com/_danielwaiguru">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/danielwaiguru/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="danielirungu91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ </p>
+<h2 align="left">Technologies and Tools</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30"/>
+ 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
+
+</p>
 
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=DanielWaiguru91&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWaiguru91&hide=html&layout=compact&theme=dark" /></td>      
-    </tr>   
-  </table>
-</center>
 
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
