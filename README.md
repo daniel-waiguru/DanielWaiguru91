@@ -4,7 +4,7 @@
 <br/>
 - I’m currently exploring iOS Development with Swift and SwiftUI. <br/>
 <br/>
-- Let's chat about code or debug yours; <br/>
+- Let's chat about code or debug yours :relaxed::relaxed: <br/>
 <br/>
 <p align="left">
 <a href="https://twitter.com/_danielwaiguru">
