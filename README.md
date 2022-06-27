@@ -2,7 +2,7 @@
 <h1 align="left">Hi there👋</h3>
 - I'm Daniel Waiguru an Android Engineer based in Nairobi, Kenya. <br/>
 <br/>
--I’m currently exploring iOS Development with Swift and SwiftUI. <br/>
+- I’m currently exploring iOS Development with Swift and SwiftUI. <br/>
 <br/>
 - Let's chat about code or debug yours; <br/>
 <br/>
