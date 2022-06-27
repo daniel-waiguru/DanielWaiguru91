@@ -1,12 +1,11 @@
-
-<h1 align="center">Hi there, 👋 I'm Daniel Waiguru</h1>
-<h3 align="center">A Mobile Software Developer</h3>
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
-
-- 🔭 I’m currently working on Kotlin/Java Mobile Apps.
-- 👯 Looking forward to collaborate on Mobile related projects.
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) 
-- 📫 Lets get social:
+<h1 align="left">Hi there👋</h3>
+- I'm Daniel Waiguru a Android Engineer based in Nairobi, Kenya. <br/>
+<br/>
+-I’m currently exploring iOS Development with Swift and SwiftUI. <br/>
+<br/>
+- Let's chat about code or debug yours; <br/>
+<br/>
 <p align="left">
 <a href="https://twitter.com/_danielwaiguru">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
@@ -18,6 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
+ <!--
 <h2 align="left">Technologies and Tools</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
 
 </p>
-
+-->
 
 
 <!--
