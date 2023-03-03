@@ -1,6 +1,6 @@
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
 <h1 align="left">Hi there👋</h3>
-- I'm Daniel Waiguru an Android Engineer based in Nairobi, Kenya. <br/>
+- I'm Daniel Waiguru an Senior Software Engineer based in Nairobi, Kenya. <br/>
 <br/>
 - I’m currently exploring iOS Development with Swift and SwiftUI. <br/>
 <br/>
