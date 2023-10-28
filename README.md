@@ -1,20 +1,7 @@
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
 <h3 align="left">Hi there👋</h3>
 
-```kotlin
-val danielwaiguru by developer {
-    about {
-        name = Daniel Waiguru
-        role = Mobile Engineer
-    }
-    tech("Kotlin", "Swift", "Android", "Jetpack Compose", "iOS", "SwiftUI")
-    links {
-        twitter = "@_danielwaiguru"
-        linkedIn = "danielwaiguru"
-    }
-}
-```
-
+I'm an experienced Senior Android Engineer(Kotlin, Java), skilled in all aspects of mobile engineering with a huge passion for topics around architecture and testing. I'm a Google Certified Android Engineer with experience in both native Android and native iOS development as well as cross-platform development with Kotlin Multiplatform.
 
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
